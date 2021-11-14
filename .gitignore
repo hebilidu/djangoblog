@@ -55,16 +55,6 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-
-# Flask stuff:
-instance/
-.webassets-cache
-
 # Scrapy stuff:
 .scrapy
 
@@ -131,3 +121,15 @@ dmypy.json
 
 # Apple
 .DS_Store
+
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+blog/migrations/0001_initial.py
+
+# Flask stuff:
+instance/
+.webassets-cache

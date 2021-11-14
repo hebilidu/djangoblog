@@ -20,6 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 INSTALLED_APPS = [
     'blog.apps.BlogConfig',
+    'users.apps.UsersConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
