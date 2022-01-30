@@ -21,3 +21,8 @@ Launch server:
 [lidu]djangoblog> python manage.py runserver
 
 ORM: Object Relation Mapper
+
+220129 - Part 8 - Add Login, Logout, Profile
+Add Pillow Package
+
+220130 Add signal to create profile at user creation
