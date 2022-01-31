@@ -27,5 +27,8 @@ Add Pillow Package
 
 220130 Add signal to create profile at user creation
 
-220131 Update User Profile
+220131 - Part 9 - Update User Profile
 -- In template's form, do not forget "enctype" encoding type to pass on image data
+
+- Part 10 - Create, Delete, Update Posts
+-- Class Based Views
