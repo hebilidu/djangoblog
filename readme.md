@@ -32,3 +32,5 @@ Add Pillow Package
 
 - Part 10 - Create, Delete, Update Posts
 -- Class Based Views
+
+220201 - Part 11 - Pagination
