@@ -34,3 +34,5 @@ Add Pillow Package
 -- Class Based Views
 
 220201 - Part 11 - Pagination
+
+220201 - Part 12 - Email and Password Reset
