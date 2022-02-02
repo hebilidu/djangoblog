@@ -35,4 +35,6 @@ Add Pillow Package
 
 220201 - Part 11 - Pagination
 
-220201 - Part 12 - Email and Password Reset
+220202 - Part 12 - Email and Password Reset
+
+220203 - Part 13 - Deploy to Linix Server
