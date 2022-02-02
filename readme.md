@@ -37,4 +37,4 @@ Add Pillow Package
 
 220202 - Part 12 - Email and Password Reset
 
-220203 - Part 13 - Deploy to Linix Server
+220203 - Part 13 - Deploy to Linux Server
